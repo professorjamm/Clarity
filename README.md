@@ -1492,7 +1492,7 @@ Start with `limit=20` for faster iteration.
 
 ## Credits
 
-**Built by**: [Your Team Name]  
+**Built by**: HackySAC 
 **For**: NVIDIA Nemotron Prize Track  
 **Powered by**: NVIDIA Nemotron Nano 9B v2  
 **Framework**: FastAPI + Python  
